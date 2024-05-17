@@ -1,4 +1,3 @@
-#include "C:/SFML/SFML-Setup.hpp"
 #include <SFML/Graphics.hpp>
 
 template <typename T>
